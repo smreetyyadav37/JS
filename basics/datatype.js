@@ -2,7 +2,7 @@
 
 // alert("guns out") // this alert command only works in browser, not in nodejs
 let name="smreety"  //string
-let age=21  //integer
+let age=21  //number
 let isLoggedIn=false  //boolean
 
 //null->standalone value
